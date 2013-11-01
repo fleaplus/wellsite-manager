@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  number: 1
+  date: 2013-11-01
+  company: MyString
+  customer: MyString
+  office: 1
+  status: MyString
+  description: MyString
+  county: MyString
+  barrels: 1
+  approver: MyString
+  invoice: 9.99
+
+two:
+  number: 1
+  date: 2013-11-01
+  company: MyString
+  customer: MyString
+  office: 1
+  status: MyString
+  description: MyString
+  county: MyString
+  barrels: 1
+  approver: MyString
+  invoice: 9.99
